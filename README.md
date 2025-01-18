@@ -5,7 +5,7 @@ This repository contains an AWS Lambda function that adds two numbers. Follow th
 ## Steps to Run the Code Locally
 
 ```bash
-  git clone https://github.com/RevanasiddaNK/90NorthTask3
+  git clone https://github.com/sagar252004/task-3.git
   cd 90NorthTask3
   pip install boto3
   python test_lambda.py
